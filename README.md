@@ -15,5 +15,5 @@ Dari hasil tersebut, saya berhasil meningkatkan WPM saya. Namun terlihat bahwa a
 
 ## Percobaan ke - 3
 Di percobaan ketiga ini, saya mencoba untuk tidak hanya menulis kata-kata di layar, tetapi juga mengingat kata selanjutnya untuk ditulis sambil beberapa saat menlihat ke arah keyboard. Berikut hasil percobaanya :
-<img width="1900" height="865" alt="Percobaan ke-3" src="https://github.com/user-attachments/assets/1698ef5b-c661-4a56-8360-6159ae01a1de" />
+<img width="1900" height="865" alt="Percobaan ke-3" src="https://github.com/user-attachments/assets/0b7c9b14-3232-443b-adf0-037d41de1d8f" />
 Dari hasil tersebut, saya berhasil meningkatkan WPM saya sekaligus akurasi pengetikan. Hal ini karena saya berhasil mengingat kata yang saya sedang tulis dan akan tulis tetapi juga memastikan jari-jari saya berada di posisi yang benar pada keyboard.
